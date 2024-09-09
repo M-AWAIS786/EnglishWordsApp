@@ -1,6 +1,6 @@
-# practice
+# English Words App
 
-A new Flutter project.
+I have done this app in flutter language and this help me to learn a flutter.
 
 ## Getting Started
 
